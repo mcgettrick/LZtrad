@@ -1,7 +1,7 @@
 # LZtrad
 Analysis of traditional Irish music via LEMPEL-ZIV
 
-To run (preferably in a JUPYTER notebook), each file necessitates an input file called either "reels.txt" or "jigs.txt".
+To run (preferably in a JUPYTER notebook), each program necessitates an input file called either "reels.txt" or "jigs.txt".
 The content of (for example) reels.txt can be taken from the webpages / database THESESSION.ORG: Therein, find a tune, and click on "ABC" to get text format. Then copy-and-paste in to the file reels.txt. For example, the first 50 lines or so of my "reels.txt" are:
 __________________________________________________________________________________________
 X: 1
